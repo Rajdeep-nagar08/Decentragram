@@ -13,7 +13,7 @@ Install these prerequisites :-
 
 
 ## Step 1. Clone the project
-`git clone https://github.com/dappuniversity/election`
+`git clone https://github.com/Rajdeep-nagar08/Decentragram`
 
 ## Step 2. Install dependencies
 ```
